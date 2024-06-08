@@ -1,8 +1,9 @@
 splitted_dataset
 underwater_dataset
 *.rar
-*.h5
 *.pptx
 *.pdf
 *.zip
+*.h5
 .DS_Store
+artifacts
